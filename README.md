@@ -21,7 +21,7 @@ In this work, we infer the air quality infromation throughout a city, based on t
 
 ![DataSource1](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/blob/master/images/DeepinScreenshot_select-area_20180824161340.png)
 
-![DataSource2](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/blob/masterimages/DeepinScreenshot_select-area_20180824110331.png)
+![DataSource2](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/blob/master/images/DeepinScreenshot_select-area_20180824110331.png)
 
 
 
