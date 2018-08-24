@@ -19,11 +19,11 @@ In this work, we infer the air quality infromation throughout a city, based on t
 
 
 
-![Ignore1](https://github.com/duanluyun/DEALING-WITH-IMBALANCED-DATA-UNDERSAMPLING-OVERSAMPLING-AND-PROPER-CROSS-VALIDATION/blob/master/image/Ignore1.png)
+![DataSource1](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/images/DeepinScreenshot_select-area_20180824161340.png)
 
-![Ignore2](https://github.com/duanluyun/DEALING-WITH-IMBALANCED-DATA-UNDERSAMPLING-OVERSAMPLING-AND-PROPER-CROSS-VALIDATION/blob/master/image/Ignore2.png)
+![DataSource2](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/images/DeepinScreenshot_select-area_20180824110331.png)
 
-![Ignore3](https://github.com/duanluyun/DEALING-WITH-IMBALANCED-DATA-UNDERSAMPLING-OVERSAMPLING-AND-PROPER-CROSS-VALIDATION/blob/master/image/Ignore3.png)
+
 
 
 ### 2. Undersampling the majority class
