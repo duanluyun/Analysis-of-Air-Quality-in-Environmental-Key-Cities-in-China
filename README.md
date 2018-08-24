@@ -28,6 +28,9 @@ In this work, we infer the air quality infromation throughout a city, based on t
 
 ![Result1](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/blob/master/images/DeepinScreenshot_select-area_20180824162531.png)
 
+![Result1](https://github.com/duanluyun/Analysis-of-Air-Quality-in-Environmental-Key-Cities-in-China/blob/master/images/DeepinScreenshot_select-area_20180824163948.png)
+
+
 
 ### 2. Undersampling the majority class
 
